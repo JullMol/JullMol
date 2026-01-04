@@ -107,13 +107,13 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JullMol&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="JullMol github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JullMol&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="JullMol streak stats"/>
-</div>
+![JullMol's GitHub stats](https://github-readme-stats.vercel.app/api?username=JullMol&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullMol&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JullMol&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JullMol&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+
 </div>
 
 ---
@@ -127,34 +127,6 @@ me.say_hi()
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JullMol/JullMol/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JullMol&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=Pharmora&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/Pharmora)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=K-Means-Clustering&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/K-Means-Clustering)
-
-</div>
-
-### 💼 Key Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Pharmora](https://github.com/JullMol/Pharmora)** ⭐ | Python-based Pharmaceutical Management System | Python, Data Management |
-| **[K-Means Clustering](https://github.com/JullMol/K-Means-Clustering)** 📊 | Food Security Analysis using ML | Python, Scikit-learn, K-Means |
-| **[Learning Algorithm](https://github.com/JullMol/Learning-Algorithm)** 🧠 | Classification & Regression Model Evaluation | Python, ML Metrics |
-| **[Gizmo Notes](https://github.com/JullMol/Gizmo-Notes)** 📝 | Modern Note-Taking Web Application | HTML, CSS, JavaScript |
 
 ---
 
@@ -174,32 +146,7 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Goals & Achievements
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Professional Goals))
-    Data Scientist
-      Machine Learning
-      Deep Learning
-      Reinforcement Learning
-    Data Analyst
-      Data Visualization
-      Statistical Analysis
-      Business Intelligence
-    Data Engineer
-      SQL & PostgreSQL
-      NoSQL Databases
-      ETL Pipelines
-    Full Stack Dev
-      Frontend Development
-      Backend Development
-      API Design
-```
-
-</div>
+## 🎯 Current Goals
 
 ### 📚 Learning Path
 
