@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+JullMol!;Data+Scientist+%26+Developer;Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+JullMol!;Data+Scientist+%26+Engineer;Welcome+to+my+GitHub!+🚀" />
 </h1>
 
 <div align="center">
@@ -19,34 +19,41 @@
 ## 👨‍💻 About Me
 
 ```python
-class DataScientist:
+class DataProfessional:
     def __init__(self):
         self.name = "JullMol"
-        self.role = "Data Scientist & Developer"
+        self.roles = [
+            "Data Scientist",
+            "Data Engineer", 
+            "Data Analyst"
+        ]
         self.location = "Indonesia 🇮🇩"
-        self.languages = ["Python", "JavaScript", "HTML/CSS"]
+        self.languages = [
+            "Python", "Go", "JavaScript", 
+            "SQL", "HTML/CSS"
+        ]
         
     def current_focus(self):
         return {
-            "learning": ["Deep Learning", "Advanced ML"],
-            "working_on": ["Data Analysis Projects", "Web Apps"],
-            "interests": ["AI/ML", "Data Viz", "Web Dev"]
+            "learning": ["ML", "DL", "RL", "PostgreSQL"],
+            "working_on": ["Data Pipelines", "ML Models"],
+            "interests": ["AI/ML", "Data Engineering", "Analytics"]
         }
     
     def say_hi(self):
         print("Thanks for visiting! Let's connect! 🚀")
 
-me = DataScientist()
+me = DataProfessional()
 me.say_hi()
 ```
 
 <br/>
 
-- 🔭 Currently working on **Machine Learning & Data Science Projects**
-- 🌱 Learning **Deep Learning & Neural Networks**
-- 👯 Looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **Python, Data Analysis, Web Development**
-- ⚡ Fun fact: **I turn coffee into code! ☕→💻**
+- 🔭 Currently working on **Data Engineering & Machine Learning Projects**
+- 🌱 Learning **Deep Learning, Reinforcement Learning & Advanced SQL**
+- 👯 Looking to collaborate on **Data Science & Engineering Projects**
+- 💬 Ask me about **Python, Go, Data Pipelines, PostgreSQL**
+- ⚡ Fun fact: **I turn data into insights and coffee into code! ☕→📊→💻**
 
 <br/>
 
@@ -59,6 +66,7 @@ me.say_hi()
 ### 👨‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -70,16 +78,26 @@ me.say_hi()
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
 </div>
@@ -89,13 +107,13 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JullMol&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JullMol&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JullMol&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="JullMol github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JullMol&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="JullMol streak stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullMol&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=JullMol&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullMol&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 ---
@@ -103,7 +121,11 @@ me.say_hi()
 ## 🐍 Contribution Snake Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JullMol/JullMol/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JullMol/JullMol/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JullMol/JullMol/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JullMol/JullMol/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -120,24 +142,26 @@ me.say_hi()
 
 <div align="center">
 
-[![Pharmora](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=Pharmora&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/Pharmora)
-[![K-Means-Clustering](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=K-Means-Clustering&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/K-Means-Clustering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=Pharmora&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/Pharmora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JullMol&repo=K-Means-Clustering&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/JullMol/K-Means-Clustering)
 
 </div>
 
 ### 💼 Key Projects
 
-- **[Pharmora](https://github.com/JullMol/Pharmora)** ⭐ Python-based Pharmaceutical Management System
-- **[K-Means Clustering](https://github.com/JullMol/K-Means-Clustering)** 📊 Multi-Source Food Security Analysis using ML
-- **[Learning Algorithm](https://github.com/JullMol/Learning-Algorithm)** 🧠 Classification & Regression Model Evaluation
-- **[Gizmo Notes](https://github.com/JullMol/Gizmo-Notes)** 📝 Modern Note-Taking Web Application
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Pharmora](https://github.com/JullMol/Pharmora)** ⭐ | Python-based Pharmaceutical Management System | Python, Data Management |
+| **[K-Means Clustering](https://github.com/JullMol/K-Means-Clustering)** 📊 | Food Security Analysis using ML | Python, Scikit-learn, K-Means |
+| **[Learning Algorithm](https://github.com/JullMol/Learning-Algorithm)** 🧠 | Classification & Regression Model Evaluation | Python, ML Metrics |
+| **[Gizmo Notes](https://github.com/JullMol/Gizmo-Notes)** 📝 | Modern Note-Taking Web Application | HTML, CSS, JavaScript |
 
 ---
 
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JullMol&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JullMol&custom_title=JullMol's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -150,17 +174,66 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Goals for 2026
+## 🎯 Current Goals & Achievements
+
+<div align="center">
 
 ```mermaid
-graph LR
-    A[🎯 Learn] --> B[Deep Learning]
-    A --> C[Advanced ML]
-    D[🚀 Build] --> E[Portfolio Projects]
-    D --> F[Open Source Contributions]
-    G[🤝 Collaborate] --> H[Data Science Community]
-    G --> I[Research Papers]
+mindmap
+  root((Professional Goals))
+    Data Scientist
+      Machine Learning
+      Deep Learning
+      Reinforcement Learning
+    Data Analyst
+      Data Visualization
+      Statistical Analysis
+      Business Intelligence
+    Data Engineer
+      SQL & PostgreSQL
+      NoSQL Databases
+      ETL Pipelines
+    Full Stack Dev
+      Frontend Development
+      Backend Development
+      API Design
 ```
+
+</div>
+
+### 📚 Learning Path
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" /><br/>
+      <sub><b>Machine Learning</b></sub><br/>
+      <sub>ML • DL • RL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
+      <sub><b>Databases</b></sub><br/>
+      <sub>SQL • NoSQL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br/>
+      <sub><b>Frontend</b></sub><br/>
+      <sub>Web Development</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=go,nodejs,fastapi" /><br/>
+      <sub><b>Backend</b></sub><br/>
+      <sub>APIs & Services</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎓 Professional Development Journey
+
+- 🎯 **Becoming Professional Data Scientist** - Advanced ML & DL techniques
+- 📊 **Mastering Data Analysis** - Statistical modeling & business insights  
+- 🔧 **Building as Data Engineer** - Robust data pipelines with PostgreSQL
+- 💻 **Full Stack Capability** - Frontend & Backend development skills
 
 ---
 
@@ -181,15 +254,18 @@ graph LR
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=65&animation=twinkling" />
 </div>
 
+---
+
 <div align="center">
   
-  ### ⭐️ Show some ❤️ by starring some repositories!
+  ### 💼 Open for collaboration on Data Science & Engineering projects
+  ### ⭐️ Show some love by starring repositories you find interesting!
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
