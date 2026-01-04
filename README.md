@@ -194,7 +194,7 @@ me.say_hi()
   <a href="mailto:dimasizzulhaq35@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/dimas-rafi-izzulhaq-b94058378">
+  <a href="https://www.linkedin.com/in/dimas-rafi-izzulhaq-b94058378">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
