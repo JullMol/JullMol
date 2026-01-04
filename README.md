@@ -25,7 +25,8 @@ class DataProfessional:
         self.roles = [
             "Data Scientist",
             "Data Engineer", 
-            "Data Analyst"
+            "Data Analyst",
+            "Full Stack Developer"
         ]
         self.location = "Indonesia 🇮🇩"
         self.languages = [
@@ -35,8 +36,8 @@ class DataProfessional:
         
     def current_focus(self):
         return {
-            "learning": ["ML", "DL", "RL", "PostgreSQL"],
-            "working_on": ["Data Pipelines", "ML Models"],
+            "learning": ["Machine Learning", "Deep Learning", "Reinforcement LearningL", "PostgreSQL"],
+            "working_on": ["Data Pipelines", "Machine Learning Models"],
             "interests": ["AI/ML", "Data Engineering", "Analytics"]
         }
     
